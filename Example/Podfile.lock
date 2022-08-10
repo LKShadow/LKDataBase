@@ -1,0 +1,25 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LKDataBase (0.1.0):
+    - FMDB (~> 2.7.5)
+
+DEPENDENCIES:
+  - LKDataBase (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+
+EXTERNAL SOURCES:
+  LKDataBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LKDataBase: 6f9a412eca727609080100a0958880939c2fb68a
+
+PODFILE CHECKSUM: d86960388414d7b7e9c8f1c753ecbbc112829a66
+
+COCOAPODS: 1.11.3

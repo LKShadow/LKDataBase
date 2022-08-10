@@ -1,0 +1,6 @@
+framework module Pods_LKDataBase_Tests {
+  umbrella header "Pods-LKDataBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

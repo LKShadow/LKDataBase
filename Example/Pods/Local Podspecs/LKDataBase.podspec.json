@@ -1,0 +1,27 @@
+{
+  "name": "LKDataBase",
+  "version": "0.1.0",
+  "summary": "基于FMDB进行封装的数据库",
+  "description": "TODO: 基于FMDB进行封装的数据库",
+  "homepage": "https://github.com/LKShadow/LKDataBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李考": "*@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:LKShadow/LKDataBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LKDataBase/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+      "~> 2.7.5"
+    ]
+  }
+}
